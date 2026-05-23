@@ -1,11 +1,11 @@
-# 🧠 Sistema Inteligente de Hábitos de Estudio
+Sistema Inteligente de Hábitos de Estudio
 
 Este proyecto implementa un sistema modular para gestionar y analizar los hábitos de estudio de los estudiantes.  
 Incluye una interfaz gráfica en **Tkinter**, módulos inteligentes para estadísticas, recomendaciones, alertas y control de objetivos.
 
 ---
 
-## 📂 Estructura del Proyecto
+Estructura del Proyecto
 
 1.excepciones/
 errores.py

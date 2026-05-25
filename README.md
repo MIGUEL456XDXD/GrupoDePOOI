@@ -30,7 +30,7 @@ dashboard.py
 
 Menu/
 main.py
-Cada módulo cumple una función específica dentro del sistema, garantizando **alta cohesión y bajo acoplamiento.
+
 
 ---
 
